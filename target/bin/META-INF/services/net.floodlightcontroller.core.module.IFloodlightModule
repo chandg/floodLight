@@ -16,6 +16,7 @@ net.floodlightcontroller.core.internal.ShutdownServiceImpl
 org.sdnplatform.sync.internal.SyncManager
 org.sdnplatform.sync.internal.SyncTorture
 net.floodlightcontroller.simpleft.FT
+net.floodlightcontroller.mactracker.MACTracker
 net.floodlightcontroller.staticentry.StaticEntryPusher
 net.floodlightcontroller.topology.TopologyManager
 net.floodlightcontroller.forwarding.Forwarding
